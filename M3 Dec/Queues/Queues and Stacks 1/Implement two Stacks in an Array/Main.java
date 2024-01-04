@@ -17,6 +17,7 @@ class twoStacks {
 	// Method to push an element x to stack1
 	void push1(int x)
 	{
+		// Hii I am Helllllllo
         // Your code here
         if (top1 + 1 < top2) {
             top1++;
